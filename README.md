@@ -1,2 +1,2 @@
-# PyMop
+# PyMOP
 Python for Multiobjective Optimization Algorithms
